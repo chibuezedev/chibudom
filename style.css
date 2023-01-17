@@ -765,7 +765,7 @@ footer span a:hover{
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Chakra Petch', sans-serif;
-    padding: 50px 30px
+    padding: 50px 30px;
 }
 .home .max-width{
     width: 100%;
@@ -784,21 +784,21 @@ footer span a:hover{
  
 }
 
-/* @media (max-width: 350px){
+@media (max-width: 375px){
     .home{
         display: flex;
         background: url("images/Ripple.svg") no-repeat center;
-        height: 80vh;
+        height: 90vh;
         color: #fff;
         min-height: 100px;
         background-size: cover;
         background-attachment: fixed;
         font-family: 'Chakra Petch', sans-serif;
-        padding: 30px 20px
+        padding: 20px 10px
     }
     .home .max-width{
-        width: 100%;
+        width: 60%;
         display: flex;
       }
       
-} */
+}
